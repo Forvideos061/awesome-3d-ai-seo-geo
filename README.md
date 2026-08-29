@@ -1,187 +1,67 @@
 # Awesome 3D AI, SEO & GEO for 3D Web
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![3D Web](https://img.shields.io/badge/3D-Web-black.svg)](https://glbkit.com)
-[![AI](https://img.shields.io/badge/AI-3D-blue.svg)](https://glbkit.com)
-[![SEO](https://img.shields.io/badge/SEO-3D%20Web-green.svg)](https://glbkit.com)
-[![GEO](https://img.shields.io/badge/GEO-AI%20Search-purple.svg)](https://glbkit.com)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re/)
+[![3D Web](https://img.shields.io/badge/3D-Web-black.svg)](https://glbkit.com/)
+[![AI](https://img.shields.io/badge/AI-3D-blue.svg)](https://glbkit.com/)
+[![SEO](https://img.shields.io/badge/SEO-3D%20Web-green.svg)](https://glbkit.com/)
+[![GEO](https://img.shields.io/badge/GEO-AI%20Search-purple.svg)](https://glbkit.com/)
 
-> A curated collection of AI, SEO, GEO, AEO, AI Overview, and search visibility resources for 3D websites, WebGL applications, Three.js projects, React Three Fiber applications, and modern 3D web experiences.
+> A curated collection of AI, SEO, GEO, AEO, AI search, performance, and developer resources for 3D websites, WebGL applications, Three.js projects, React Three Fiber applications, and modern 3D web experiences.
 
 Building a 3D website is only part of the challenge.
 
-Making that website **discoverable, understandable, indexable, performant, and visible in modern search and AI systems** requires a different set of tools and techniques.
+A modern 3D website also needs to be **discoverable, understandable, crawlable, performant, accessible, and useful to both people and search systems**.
 
-This repository collects practical resources for developers working with:
-
-* 3D websites
-* Three.js
-* React Three Fiber
-* WebGL
-* WebGPU
-* GLB and glTF
-* 3D product configurators
-* Interactive 3D experiences
-* 3D model viewers
-* 3D portfolios
-* 3D e-commerce
-* AI search
-* Google AI Overviews
-* Answer engines
-* Generative Engine Optimization (GEO)
-* Answer Engine Optimization (AEO)
-* Technical SEO
+This repository brings together practical resources for developers building the modern 3D Web — from 3D development and asset optimization to technical SEO, AI search, Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), and AI Overviews.
 
 The goal is simple:
 
-**Help developers build 3D websites that are not only visually impressive, but also discoverable by search engines, AI systems, crawlers, and users.**
+**Help developers build 3D websites that look great, work well, and can be understood by humans, search engines, crawlers, and AI systems.**
 
 ---
 
-## Why This List?
-
-3D websites introduce challenges that traditional websites do not always have.
-
-A page may contain a sophisticated WebGL scene, Three.js application, interactive product viewer, or React Three Fiber experience while the important information remains difficult for search engines and AI systems to understand.
-
-Common problems include:
-
-* Important content rendered only inside WebGL
-* Client-side-only application architecture
-* Missing semantic HTML
-* Weak page metadata
-* Poor internal linking
-* Missing structured data
-* Large 3D assets
-* Heavy JavaScript bundles
-* Slow initial rendering
-* Poor Core Web Vitals
-* Incorrect robots directives
-* Missing or incomplete sitemaps
-* AI crawlers receiving little useful context
-* Product information hidden inside interactive scenes
-* Images without useful metadata
-* 3D models without descriptive context
-
-This repository brings together resources that can help solve these problems.
-
----
-
-## Who Is This For?
-
-This collection is primarily for:
-
-* **3D Web Developers**
-* **Three.js Developers**
-* **React Three Fiber Developers**
-* **WebGL Developers**
-* **WebGPU Developers**
-* **3D E-commerce Developers**
-* **3D Product Configurator Developers**
-* **Blender & 3D Artists building for the web**
-* **Frontend Engineers**
-* **Technical SEO Engineers**
-* **SEO Developers**
-* **GEO / AEO Practitioners**
-* **AI Search Researchers**
-* **Developers building AI-readable websites**
-
----
-
-## Core Principles
-
-A modern 3D website should aim to be:
-
-### Human-readable
-
-Important information should be understandable without requiring the user to interact with a WebGL scene.
-
-### Search-engine friendly
-
-Search engines should be able to discover, crawl, render, and understand the important content.
-
-### AI-readable
-
-AI systems and answer engines should be able to identify the page topic, entities, relationships, products, tools, and useful facts.
-
-### Performance-conscious
-
-3D rendering should not unnecessarily block the initial experience.
-
-### Accessible
-
-Important information should not exist exclusively inside a canvas.
-
-### Semantically structured
-
-HTML, metadata, structured data, URLs, headings, and internal links should communicate the purpose of the page clearly.
-
----
-
-# Table of Contents
-
-## Foundations
-
-* [Why This List?](#why-this-list)
-* [Who Is This For?](#who-is-this-for)
-* [Core Principles](#core-principles)
-* [How to Use This Repository](#how-to-use-this-repository)
-
-## AI
+## Table of Contents
 
 * [AI Tools for 3D](#ai-tools-for-3d)
 * [AI APIs & Models](#ai-apis--models)
 * [AI Search & Answer Engines](#ai-search--answer-engines)
 * [AI Overviews](#ai-overviews)
-
-## Search Optimization
-
 * [GEO for 3D Websites](#geo-for-3d-websites)
 * [AEO for 3D Websites](#aeo-for-3d-websites)
 * [SEO for 3D Websites](#seo-for-3d-websites)
 * [Technical SEO](#technical-seo)
 * [Structured Data & Schema](#structured-data--schema)
 * [3D Model SEO](#3d-model-seo)
-
-## 3D Web
-
 * [WebGL SEO](#webgl-seo)
 * [Three.js SEO](#threejs-seo)
 * [React Three Fiber SEO](#react-three-fiber-seo)
 * [Image & 3D Asset Optimization](#image--3d-asset-optimization)
 * [Web Performance](#web-performance)
-
-## Crawling & Discovery
-
 * [Crawlers & AI Bots](#crawlers--ai-bots)
 * [robots.txt](#robotstxt)
 * [sitemap.xml](#sitemapxml)
 * [llms.txt](#llmstxt)
 * [Metadata & Open Graph](#metadata--open-graph)
-
-## Development & Measurement
-
 * [Analytics](#analytics)
 * [Search Console Tools](#search-console-tools)
 * [Developer Tools](#developer-tools)
-
-## Resources
-
 * [Learning Resources](#learning-resources)
 * [3D Web Resources](#3d-web-resources)
-
-## Community
-
+* [3D E-commerce SEO](#3d-e-commerce-seo)
+* [3D Tool Website SEO](#3d-tool-website-seo)
+* [Recommended 3D Web Architecture](#recommended-3d-web-architecture)
 * [How to Use This Repository](#how-to-use-this-repository)
+* [Common Mistakes](#common-mistakes)
 * [Contributing](#contributing)
 * [Support](#support)
+* [Related GLBKit Resources](#related-glbkit-resources)
 * [License](#license)
 
 ---
 
 # AI Tools for 3D
 
-AI tools can assist with many parts of the 3D workflow, including modeling, texturing, coding, documentation, asset processing, search optimization, and content generation.
+AI is becoming part of many stages of the 3D workflow, from asset creation and texturing to development, documentation, optimization, and content generation.
 
 ### AI for 3D Modeling
 
@@ -189,17 +69,18 @@ Useful categories include:
 
 * Text-to-3D generation
 * Image-to-3D generation
-* 3D asset generation
 * AI-assisted modeling
+* 3D asset generation
 * Texture generation
 * Material generation
-* 3D asset cleanup
+* Asset cleanup
 * Retopology assistance
 * Animation generation
+* 3D asset classification
 
 ### AI for 3D Development
 
-AI coding assistants can help developers work with:
+AI coding tools can assist with:
 
 * Three.js
 * React Three Fiber
@@ -210,27 +91,41 @@ AI coding assistants can help developers work with:
 * Next.js
 * Tailwind CSS
 * 3D asset pipelines
+* Shader development
+* Performance optimization
 
-When using AI for 3D development, always verify generated rendering code, resource disposal, GPU usage, asset loading, and browser compatibility.
+When using AI-generated code, always review:
+
+* Rendering lifecycle
+* GPU usage
+* Resource disposal
+* Memory usage
+* Asset loading
+* Browser compatibility
+* Accessibility
+* Performance
 
 ---
 
 # AI APIs & Models
 
-AI APIs can be integrated into 3D applications for:
+AI APIs can add intelligent features to 3D applications.
+
+Common use cases include:
 
 * Natural-language product configuration
 * 3D asset search
 * Model tagging
 * Scene descriptions
 * Automated metadata
+* Product classification
 * Image understanding
 * Product recommendations
 * Natural-language navigation
 * Documentation generation
-* Asset classification
+* Asset organization
 
-Useful API categories include:
+Useful categories include:
 
 * Large language models
 * Vision models
@@ -246,28 +141,31 @@ Useful API categories include:
 
 # AI Search & Answer Engines
 
-Search is increasingly expanding beyond traditional blue-link results.
+Search is evolving beyond traditional keyword-based results.
 
-Developers should understand how content can be discovered and represented by:
+Modern websites may be discovered and interpreted through:
 
-* Traditional search engines
+* Search engines
 * AI-powered search
 * Answer engines
 * Conversational search
 * Retrieval systems
 * AI assistants
+* Knowledge systems
 
-Important concepts include:
+Developers should understand concepts such as:
 
 * Crawlability
 * Retrieval
 * Entity understanding
 * Content authority
 * Structured information
-* Citations
 * Source attribution
+* Citations
 * Topical relevance
-* Clear factual content
+* Search intent
+
+For 3D websites, this is especially important because much of the visual experience may exist inside JavaScript and WebGL.
 
 ---
 
@@ -275,9 +173,9 @@ Important concepts include:
 
 AI-generated search summaries can change how users discover websites.
 
-For 3D websites, useful information should not exist exclusively inside a WebGL canvas.
+For 3D websites, important information should not exist only inside a WebGL canvas.
 
-A product page, for example, should expose important information through normal HTML:
+For example, a 3D product page should expose useful information through normal HTML:
 
 * Product name
 * Product description
@@ -286,32 +184,32 @@ A product page, for example, should expose important information through normal 
 * Dimensions
 * Features
 * Compatibility
-* Pricing information where applicable
+* Pricing where applicable
 * Images
 * Related products
-* Frequently asked questions
+* FAQs
 
 The interactive 3D experience should enhance the page rather than become the only source of information.
 
 ### Useful Practices
 
-* Use descriptive page titles.
-* Provide meaningful headings.
+* Write descriptive page titles.
+* Use meaningful headings.
 * Keep important information in HTML.
 * Use structured data where appropriate.
 * Build strong internal links.
-* Provide useful supporting content.
 * Make important entities explicit.
+* Provide useful supporting content.
 * Keep pages technically crawlable.
-* Avoid hiding all useful information inside JavaScript-only interfaces.
+* Make important facts easy to understand.
 
 ---
 
 # GEO for 3D Websites
 
-**Generative Engine Optimization (GEO)** focuses on making content easier for generative search systems and AI assistants to discover, understand, retrieve, and potentially reference.
+**Generative Engine Optimization (GEO)** generally refers to improving content so generative search systems and AI assistants can discover, understand, retrieve, and potentially reference it.
 
-For 3D websites, GEO can involve:
+For 3D websites, useful GEO practices include:
 
 * Clear entity descriptions
 * Strong topical structure
@@ -326,21 +224,21 @@ For 3D websites, GEO can involve:
 
 ### GEO Checklist
 
-* Is the main topic obvious?
-* Is the page understandable without the 3D canvas?
+* Is the main topic immediately clear?
+* Can the page be understood without the 3D canvas?
 * Are important entities explicitly named?
-* Is the content supported by structured data?
-* Are related pages internally linked?
 * Are important facts easy to extract?
+* Are related pages internally linked?
+* Is the content supported by structured information?
 * Does the page provide unique value?
 
 ---
 
 # AEO for 3D Websites
 
-**Answer Engine Optimization (AEO)** focuses on creating content that can answer user questions clearly.
+**Answer Engine Optimization (AEO)** focuses on making content useful for systems that answer questions directly.
 
-Useful content types include:
+Useful content formats include:
 
 * FAQs
 * Definitions
@@ -352,28 +250,22 @@ Useful content types include:
 * Product information
 * Technical explanations
 
-### Example
+A 3D product page, for example, can answer:
 
-Instead of placing only:
+* What is this product?
+* What materials does it use?
+* What formats are supported?
+* What are its dimensions?
+* How does the 3D viewer work?
+* What platforms are supported?
 
-> Interactive 3D product viewer
-
-provide useful supporting information such as:
-
-* What the product is
-* What formats are supported
-* What technologies are used
-* How the viewer works
-* How users can interact with it
-* Frequently asked questions
-
-The 3D experience becomes the interactive layer while HTML provides the explanatory layer.
+The 3D experience provides the interactive layer while HTML provides the explanatory layer.
 
 ---
 
 # SEO for 3D Websites
 
-Traditional SEO remains important for 3D websites.
+Traditional SEO remains an important foundation for 3D websites.
 
 Core areas include:
 
@@ -390,19 +282,17 @@ Core areas include:
 * Performance
 * Mobile usability
 
-### 3D SEO Principle
+### The 3D SEO Principle
 
-**Do not make the search engine understand the 3D scene when normal HTML can explain it.**
+> **Use WebGL for interaction and visualization. Use HTML for information.**
 
-Use WebGL for interaction and visualisation.
-
-Use HTML for information.
+Do not make search engines understand information that could simply be provided as accessible HTML.
 
 ---
 
 # Technical SEO
 
-Technical SEO is especially important for JavaScript-heavy 3D applications.
+Technical SEO is particularly important for JavaScript-heavy 3D applications.
 
 Important areas include:
 
@@ -423,21 +313,21 @@ Important areas include:
 
 ### JavaScript Applications
 
-For frameworks such as Next.js, consider:
+For frameworks such as Next.js:
 
-* Server-render important content
-* Keep interactive components client-side where necessary
-* Avoid unnecessary client rendering
-* Use meaningful URLs
-* Generate metadata correctly
-* Keep the initial HTML useful
-* Load heavy 3D components strategically
+* Server-render important content where appropriate.
+* Keep interactive components client-side where necessary.
+* Avoid unnecessary client rendering.
+* Use meaningful URLs.
+* Generate metadata correctly.
+* Keep initial HTML useful.
+* Load heavy 3D components strategically.
 
 ---
 
 # Structured Data & Schema
 
-Structured data helps communicate page information in machine-readable form.
+Structured data provides machine-readable information about a page.
 
 Potential schema types for 3D websites include:
 
@@ -455,14 +345,12 @@ Potential schema types for 3D websites include:
 * `VideoObject`
 * `Person`
 
-Always use schema types that accurately describe the page.
+Only use structured data that accurately describes the page and its visible content.
 
-Do not add structured data simply because a schema type exists.
-
-### Useful Resources
+Useful resources:
 
 * Schema.org
-* Google Search Central structured data documentation
+* Google Search Central
 * JSON-LD
 * Rich Results testing tools
 
@@ -470,9 +358,9 @@ Do not add structured data simply because a schema type exists.
 
 # 3D Model SEO
 
-3D assets can have useful metadata and supporting content just like images and videos.
+3D assets can benefit from descriptive metadata and supporting content.
 
-For a 3D model page, consider exposing:
+A dedicated 3D model page may expose:
 
 * Model name
 * Model description
@@ -486,36 +374,34 @@ For a 3D model page, consider exposing:
 * Animation information
 * License
 * Dimensions
-* Related models
 * Preview images
+* Related models
 
-### File Naming
+### Descriptive File Names
 
-Prefer descriptive filenames.
-
-Bad:
-
-```text
-model-final-v8.glb
-```
-
-Better:
+Prefer:
 
 ```text
 red-sports-car.glb
 ```
 
-File naming should be descriptive without unnecessary keyword repetition.
+over:
+
+```text
+model-final-v8.glb
+```
+
+File names should be descriptive without unnecessary keyword repetition.
 
 ---
 
 # WebGL SEO
 
-WebGL applications introduce a special SEO challenge because the visual scene is rendered inside a canvas.
+WebGL provides rendering capabilities, but a canvas does not replace semantic web content.
 
-A canvas itself does not provide enough semantic information for search engines or AI systems.
+A WebGL application should generally sit alongside normal HTML content.
 
-### Recommended Architecture
+### Recommended Structure
 
 ```text
 HTML
@@ -532,26 +418,26 @@ HTML
     └── Interactive 3D Experience
 ```
 
-The WebGL application should complement the HTML page.
+The WebGL scene should complement the HTML page.
 
 ---
 
 # Three.js SEO
 
-Three.js is a rendering library, not an SEO framework.
+Three.js is a 3D rendering library, not an SEO framework.
 
-When building Three.js websites:
+When building websites with Three.js:
 
-* Keep important content outside the canvas.
+* Keep important information outside the canvas.
 * Use semantic HTML.
 * Provide meaningful metadata.
 * Use crawlable URLs.
-* Avoid rendering the entire page as one canvas.
+* Avoid turning the entire website into one canvas.
 * Optimize JavaScript loading.
 * Optimize 3D assets.
 * Provide accessible alternatives where appropriate.
 
-### Three.js Performance Considerations
+### Three.js Performance Areas
 
 Pay attention to:
 
@@ -559,7 +445,7 @@ Pay attention to:
 * Texture sizes
 * Draw calls
 * Materials
-* Shadow quality
+* Shadows
 * Post-processing
 * Animation loops
 * GPU memory
@@ -569,12 +455,12 @@ Pay attention to:
 
 # React Three Fiber SEO
 
-React Three Fiber makes it easier to build declarative 3D experiences with React.
+React Three Fiber provides a declarative way to build Three.js experiences with React.
 
 For SEO-sensitive applications:
 
 * Keep SEO content outside `<Canvas>`.
-* Use server-rendered content where appropriate.
+* Server-render important content where appropriate.
 * Separate marketing content from interactive 3D components.
 * Dynamically load heavy 3D components when useful.
 * Keep metadata independent from the WebGL scene.
@@ -585,11 +471,8 @@ For SEO-sensitive applications:
 Page
 │
 ├── SEO / Marketing Content
-│
 ├── Product Information
-│
 ├── Structured Data
-│
 ├── Related Content
 │
 └── Interactive 3D Viewer
@@ -602,18 +485,20 @@ Page
 
 Large assets can significantly affect the performance of 3D websites.
 
-Optimization areas include:
+## Images
 
-### Images
+Consider:
 
 * Responsive images
 * Modern image formats
-* Proper dimensions
+* Correct dimensions
 * Lazy loading
 * Descriptive alt text
 * Compression
 
-### 3D Models
+## 3D Models
+
+Useful technologies and formats include:
 
 * GLB
 * glTF
@@ -625,13 +510,10 @@ Optimization areas include:
 * Geometry optimization
 * Level of Detail
 
-### General Principle
+Do not optimize only for download size.
 
-Do not optimize only for file size.
+Also consider:
 
-Consider:
-
-* Download size
 * Decode time
 * GPU memory
 * CPU usage
@@ -642,9 +524,9 @@ Consider:
 
 # Web Performance
 
-3D websites can be visually impressive while still being slow.
+3D websites can be visually impressive while still being expensive to load and render.
 
-Important performance areas include:
+Important areas include:
 
 * Core Web Vitals
 * Largest Contentful Paint
@@ -659,17 +541,25 @@ Important performance areas include:
 
 ### Practical Strategy
 
-Load the page first.
+A useful approach is:
 
-Load the interactive 3D experience when appropriate.
+```text
+Load the page
+      ↓
+Render useful content
+      ↓
+Load the interactive experience
+      ↓
+Load additional 3D assets when needed
+```
 
-Avoid making a large 3D scene block the entire initial experience unless the 3D experience itself is the primary content.
+Avoid making a large 3D scene unnecessarily block the initial experience.
 
 ---
 
 # Crawlers & AI Bots
 
-Modern websites may be accessed by different types of automated systems.
+Websites may be accessed by many different automated systems.
 
 These can include:
 
@@ -681,13 +571,11 @@ These can include:
 * Performance tools
 * Link crawlers
 
-Developers should understand what their robots directives allow and what content automated systems can access.
-
-### Important Questions
+Important questions include:
 
 * Can the page be crawled?
-* Can the important HTML be retrieved?
-* Are important resources blocked?
+* Can important HTML be retrieved?
+* Are useful resources blocked?
 * Is the sitemap available?
 * Are canonical URLs correct?
 * Are unnecessary routes excluded?
@@ -699,14 +587,7 @@ Developers should understand what their robots directives allow and what content
 
 `robots.txt` provides crawl instructions for automated agents.
 
-Typical goals include:
-
-* Allowing important public pages
-* Blocking private application routes
-* Preventing unnecessary crawling
-* Referencing the sitemap
-
-Example:
+A simple example:
 
 ```text
 User-agent: *
@@ -715,17 +596,17 @@ Allow: /
 Sitemap: https://example.com/sitemap.xml
 ```
 
-Always adapt the rules to the actual website.
+Adapt the rules to the actual website.
 
-Do not use `robots.txt` as a replacement for authentication or access control.
+> `robots.txt` is not an access-control mechanism. Private information should be protected through authentication and authorization.
 
 ---
 
 # sitemap.xml
 
-XML sitemaps help search engines discover URLs.
+XML sitemaps help search engines discover important URLs.
 
-For a 3D website, useful sitemap entries can include:
+For a 3D website, sitemap entries may include:
 
 * Homepage
 * Tool pages
@@ -742,82 +623,83 @@ Avoid adding URLs that should not be indexed.
 
 # llms.txt
 
-`llms.txt` is a proposed convention intended to provide information about a website for language-model systems.
+`llms.txt` is an emerging convention intended to provide information about a website for language-model systems.
 
-It should be treated as an emerging convention rather than a replacement for:
+It should not be treated as a replacement for:
 
+* HTML
 * robots.txt
 * sitemap.xml
-* HTML
-* structured data
-* normal SEO practices
+* Structured data
+* Metadata
+* Good technical SEO
 
-If you use `llms.txt`, keep it useful and maintain it as the website changes.
+If you use `llms.txt`, keep it useful, concise, and maintained.
 
 ---
 
 # Metadata & Open Graph
 
-Every important page should have useful metadata.
+Important pages should have useful metadata.
 
-Important elements include:
+Common elements include:
 
 * `<title>`
 * Meta description
 * Canonical URL
 * Open Graph metadata
-* Twitter/X metadata where appropriate
+* Social preview metadata
 * Robots directives
 * Language metadata
 
-### Good Title
+### Example
 
-```text
-GLB Viewer – View 3D Models Online
+```html
+<title>GLB Viewer – View 3D Models Online</title>
 ```
 
-### Weak Title
+A title such as:
 
 ```text
 Home
 ```
 
-The title should clearly communicate the purpose of the page.
+provides much less context.
+
+Metadata should clearly communicate the purpose of the page.
 
 ---
 
 # Analytics
 
-Analytics can help understand how users interact with 3D websites.
+Analytics can help developers understand how users interact with 3D applications.
 
 Useful events may include:
 
 * Model uploaded
 * Model loaded
 * Screenshot created
-* Format selected
 * Tool opened
+* Format selected
 * Download started
 * Viewer interaction
 * Error encountered
 * Conversion completed
 
-Avoid collecting unnecessary personal data.
-
-Focus on events that help improve the product and user experience.
+Only collect data that is necessary and appropriate for the product.
 
 ---
 
 # Search Console Tools
 
-Search performance can be investigated using tools such as:
+Useful search and indexing tools include:
 
 * Google Search Console
 * Bing Webmaster Tools
 * URL inspection tools
-* Rich result testing
+* Rich result testing tools
 * Search analytics
-* Index coverage reports
+* Indexing reports
 * Crawl reports
 
 For 3D websites, investigate:
@@ -835,22 +717,20 @@ For 3D websites, investigate:
 
 # Developer Tools
 
-Useful developer tools for 3D SEO and performance work include:
+## Browser DevTools
 
-### Browser DevTools
+Useful for inspecting:
 
-Use browser developer tools to inspect:
-
-* Network requests
-* JavaScript
 * HTML
 * CSS
+* JavaScript
+* Network requests
 * Performance
 * Memory
 * WebGL
 * WebGPU
 
-### Lighthouse
+## Lighthouse
 
 Useful for auditing:
 
@@ -859,17 +739,29 @@ Useful for auditing:
 * Best practices
 * SEO
 
-### PageSpeed Insights
+## PageSpeed Insights
 
-Useful for investigating page performance and Core Web Vitals.
+Useful for investigating:
 
-### WebPageTest
+* Performance
+* Core Web Vitals
+* Mobile performance
+* Desktop performance
+
+## WebPageTest
 
 Useful for detailed loading and performance analysis.
 
-### Chrome DevTools
+## Chrome DevTools
 
-Useful for debugging rendering, network behaviour, JavaScript execution, memory, and performance.
+Useful for debugging:
+
+* Rendering
+* Network behavior
+* JavaScript execution
+* Memory
+* Performance
+* GPU-related behavior
 
 ---
 
@@ -877,9 +769,7 @@ Useful for debugging rendering, network behaviour, JavaScript execution, memory,
 
 ## SEO
 
-Learn the fundamentals before focusing heavily on GEO or AEO.
-
-Recommended topics:
+Learn the fundamentals first:
 
 * Search intent
 * Crawling
@@ -889,14 +779,14 @@ Recommended topics:
 * Internal linking
 * Structured data
 * Site architecture
-* Page experience
+* Content quality
 
 ## AI Search
 
-Learn:
+Useful topics include:
 
+* Information retrieval
 * Retrieval systems
-* Search augmentation
 * Embeddings
 * Entity understanding
 * Knowledge graphs
@@ -906,7 +796,7 @@ Learn:
 
 ## GEO
 
-Learn:
+Explore:
 
 * Content discoverability
 * Entity clarity
@@ -948,7 +838,7 @@ Useful for:
 
 ## React Three Fiber
 
-React renderer for Three.js.
+A React renderer for Three.js.
 
 Useful for:
 
@@ -959,7 +849,7 @@ Useful for:
 
 ## Babylon.js
 
-A complete JavaScript framework for building 3D applications.
+A JavaScript framework for building 3D applications.
 
 Useful for:
 
@@ -970,26 +860,26 @@ Useful for:
 
 ## glTF
 
-Modern 3D transmission format designed for efficient delivery and rendering.
+A modern 3D transmission format designed for efficient delivery and rendering.
 
-Useful formats include:
+Common formats:
 
 * `.gltf`
 * `.glb`
 
 ## WebGL
 
-Browser API for hardware-accelerated 3D graphics.
+A browser API for hardware-accelerated graphics.
 
 ## WebGPU
 
-Modern graphics and compute API for the web.
+A modern graphics and compute API for the web.
 
 ---
 
 # Recommended 3D Web Architecture
 
-A good architecture separates information from rendering.
+A strong 3D website separates information from rendering.
 
 ```text
 3D Website
@@ -1005,7 +895,7 @@ A good architecture separates information from rendering.
 │   ├── robots.txt
 │   ├── sitemap.xml
 │   ├── Canonicals
-│   └── AI crawler considerations
+│   └── Crawler considerations
 │
 ├── Performance Layer
 │   ├── Image optimization
@@ -1022,7 +912,7 @@ A good architecture separates information from rendering.
     └── Interactive Experience
 ```
 
-This separation makes the website easier to maintain and easier for machines to understand.
+This separation makes the application easier to maintain and gives machines more useful information to work with.
 
 ---
 
@@ -1034,23 +924,23 @@ A product page can combine:
 
 ```text
 Product Information
-+
+        +
 Product Images
-+
+        +
 Interactive 3D Model
-+
+        +
 Specifications
-+
+        +
 Structured Data
-+
+        +
 Reviews
-+
+        +
 FAQ
-+
+        +
 Related Products
 ```
 
-The 3D model should enhance the product page rather than replace the product information.
+The 3D model should enhance the product page rather than replace product information.
 
 Important product information should remain available as normal HTML.
 
@@ -1058,7 +948,7 @@ Important product information should remain available as normal HTML.
 
 # 3D Tool Website SEO
 
-3D tools can also benefit from dedicated landing pages.
+3D tools can benefit from dedicated landing pages.
 
 For example:
 
@@ -1081,7 +971,7 @@ Each page can target a specific user intent while providing:
 * Documentation
 * Related tools
 
-This creates useful entry points for both search engines and users.
+This creates useful entry points for users and search systems.
 
 ---
 
@@ -1113,9 +1003,9 @@ This creates useful entry points for both search engines and users.
 
 # How to Use This Repository
 
-This repository is organized as a starting point rather than a strict learning path.
+This repository is designed as a practical reference rather than a strict course.
 
-If you are new to 3D Web SEO, a practical order is:
+If you are new to 3D Web SEO, a useful learning order is:
 
 ```text
 1. SEO Fundamentals
@@ -1139,25 +1029,23 @@ If you are new to 3D Web SEO, a practical order is:
 10. AI Overviews & Answer Engines
 ```
 
-You do not need to implement every technique at once.
+You do not need to implement everything at once.
 
-Start with a technically sound website and build from there.
+Start with a technically sound website and improve it step by step.
 
 ---
 
 # Recommended Workflow
 
-For a new 3D website:
-
-### Step 1 — Build the page
+## 1. Build the page
 
 Create useful HTML content first.
 
-### Step 2 — Add the 3D experience
+## 2. Add the 3D experience
 
 Use Three.js, React Three Fiber, Babylon.js, or another suitable technology.
 
-### Step 3 — Optimize assets
+## 3. Optimize assets
 
 Optimize:
 
@@ -1168,7 +1056,7 @@ Optimize:
 * JavaScript
 * Fonts
 
-### Step 4 — Add technical SEO
+## 4. Add technical SEO
 
 Implement:
 
@@ -1178,11 +1066,11 @@ Implement:
 * Robots
 * Internal linking
 
-### Step 5 — Add structured data
+## 5. Add structured data
 
-Use schema types that accurately describe the content.
+Use schema types that accurately describe the page.
 
-### Step 6 — Test performance
+## 6. Test performance
 
 Measure:
 
@@ -1192,43 +1080,43 @@ Measure:
 * 3D loading
 * Rendering performance
 
-### Step 7 — Improve AI discoverability
+## 7. Improve AI discoverability
 
 Make important entities, facts, relationships, and explanations easy to understand.
 
-### Step 8 — Monitor
+## 8. Monitor
 
-Use analytics and search tools to understand how the site performs.
+Use analytics and search tools to understand how the website performs.
 
 ---
 
 # Common Mistakes
 
-## Making the entire website a canvas
+### Making the entire website a canvas
 
-A beautiful WebGL experience does not automatically communicate useful information to search engines.
+A WebGL experience does not automatically communicate useful information to search engines or AI systems.
 
-## Rendering everything client-side
+### Rendering everything client-side
 
 Heavy client-side rendering can make initial content and crawling more difficult.
 
-## Ignoring performance
+### Ignoring performance
 
-A technically correct website can still provide a poor experience if the 3D scene is too expensive.
+A technically correct website can still provide a poor experience when the 3D scene is too expensive.
 
-## Hiding product information inside the model
+### Hiding product information inside the model
 
-Important product specifications should not exist only inside the 3D scene.
+Important specifications should not exist only inside the 3D scene.
 
-## Using structured data incorrectly
+### Using structured data incorrectly
 
-Structured data should describe visible, relevant page content.
+Structured data should accurately describe relevant page content.
 
-## Blocking useful crawlers accidentally
+### Blocking useful crawlers accidentally
 
-Review robots rules before deploying them.
+Review robots directives before deploying them.
 
-## Focusing only on keywords
+### Focusing only on keywords
 
 Modern search involves intent, entities, context, quality, usefulness, and technical accessibility.
 
@@ -1242,7 +1130,7 @@ GEO generally refers to **Generative Engine Optimization**: improving content so
 
 ## What is AEO?
 
-AEO generally refers to **Answer Engine Optimization**, focusing on creating content that can directly satisfy questions in answer-oriented search systems.
+AEO generally refers to **Answer Engine Optimization**, focusing on creating content that directly satisfies questions in answer-oriented search systems.
 
 ## What are AI Overviews?
 
@@ -1252,13 +1140,13 @@ AI Overviews are AI-generated summaries that can appear within search experience
 
 No.
 
-Strong technical SEO, useful content, accessibility, structured information, and good site architecture remain important foundations.
+Technical SEO, useful content, accessibility, structured information, and good site architecture remain important foundations.
 
 ## Does Three.js hurt SEO?
 
 Three.js itself does not automatically hurt SEO.
 
-The bigger issue is how the website is architected around the 3D experience.
+The bigger factor is how the website is architected around the 3D experience.
 
 ## Should important text be inside WebGL?
 
@@ -1276,23 +1164,23 @@ A 3D website can rank when it provides useful content, is technically crawlable,
 
 Not necessarily.
 
-Create dedicated pages when they provide meaningful value and distinct search intent.
+Create dedicated pages when they provide meaningful value and represent distinct content or search intent.
 
 ## Is llms.txt required for AI SEO?
 
-No universal requirement should be assumed.
+There is no universal requirement to use it.
 
-Treat it as an emerging convention rather than a replacement for normal web standards and SEO fundamentals.
+Treat it as an emerging convention rather than a replacement for established web standards and SEO fundamentals.
 
 ## Should I optimize GLB files for SEO?
 
-GLB optimization primarily improves performance rather than ranking directly.
+GLB optimization primarily improves performance rather than directly improving rankings.
 
 However, better performance can improve the overall user experience.
 
 ## Does image alt text help 3D model SEO?
 
-Descriptive alt text can help accessibility and image understanding when an image conveys meaningful information.
+Descriptive alt text can improve accessibility and help communicate the purpose of meaningful images.
 
 ## Should 3D websites use structured data?
 
@@ -1407,13 +1295,13 @@ If this repository is useful to you:
 * 🐛 Report broken or outdated information
 * 🔧 Contribute improvements
 
-The goal is to build a practical resource that helps developers make the modern 3D Web more discoverable, performant, and accessible.
+The goal is to build a practical resource that helps developers make the modern 3D Web more **discoverable, performant, accessible, and understandable**.
 
 ---
 
 # Related GLBKit Resources
 
-GLBKit is a browser-based collection of tools for working with 3D assets.
+[GLBKit](https://glbkit.com/) is a browser-based collection of tools for working with 3D assets.
 
 Useful tools include:
 
@@ -1424,9 +1312,9 @@ Useful tools include:
 * 3D Model Information
 * 3D asset inspection tools
 
-Website:
+Visit:
 
-https://glbkit.com
+**https://glbkit.com/**
 
 ---
 
@@ -1434,9 +1322,9 @@ https://glbkit.com
 
 This project is dedicated to the public domain under the **Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related rights to this work.
 
-For the full license text, see the `LICENSE` file.
+See the `LICENSE` file for the full license text.
 
 ---
 
@@ -1446,4 +1334,4 @@ Built for developers working with:
 
 **Three.js · React Three Fiber · WebGL · WebGPU · glTF · GLB · AI · SEO · GEO · AEO · AI Search · 3D E-commerce · 3D Tools**
 
-If you are building the next generation of 3D websites, this list is for you.
+If you are building the next generation of 3D websites, this list is for you. 🌐
